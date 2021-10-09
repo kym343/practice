@@ -25,6 +25,20 @@ Algorithm Coding Practice
 |9|[10430](https://www.acmicpc.net/problem/10430)| C++ | Caculation of modulo |
 <br>
 
+## [Inflean](https://www.inflearn.com/course/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/dashboard/)
+| # | Title | Solution | Basic idea (One line) |
+|---| ----- | -------- | --------------------- |
+|1|[1부터 N까지 M의 배수합]| C++ | If Statsment |
+|2|[자연수의 합]| C++ | Sieve of Eratosthenes |
+|3|[진약수의 합]| C++ | Repeat dividing two numbers |
+|4|[나이 차이]| C++ |1. Divide case 1, 2 or 3, more<br>2. Find the remainder from 3 to n-1 for n |
+|5|[나이계산]| C++ |1. Subtract 100 from total sum<br>2. Find the case with the subtracted value |
+|6|[숫자만 추출]| C++ | Find the remainder from 2 to two nums min -1 |
+|7|[영어단어 복구]| C++ | Sieve of Eratosthenes |
+|8|[올바른 괄호]| C++ |1. Find the remainder from 2 to two nums min -1<br>2. Total sum |
+|9|[모두의 약수]| C++ | Caculation of modulo |
+<br>
+
 ## Others
 | # | Title | Solution | Basic idea (One line) |
 |---| ----- | -------- | --------------------- |
