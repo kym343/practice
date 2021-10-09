@@ -28,19 +28,19 @@ Algorithm Coding Practice
 ## [Inflean ](https://www.inflearn.com/course/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/dashboard/)
 | # | Title | Solution | Basic idea (One line) |
 |---| ----- | -------- | --------------------- |
-|001|1부터 N까지 M의 배수합| C++ |  |
-|002|자연수의 합| C++ |  |
-|003|진약수의 합| C++ |  |
-|004|나이 차이| C++ |  |
-|005|나이계산| C++ |  |
-|006|숫자만 추출| C++ |  |
-|007|영어단어 복구| C++ |  |
-|008|올바른 괄호| C++ |  |
-|009|모두의 약수| C++ |  |
-|010|자릿수의 합| C++ |  |
-|011|숫자의 총 개수(small)| C++ |  |
-|012|숫자의 총 개수(large)| C++ |  |
-|013|가장 많이 사용된 자릿수| C++ |  |
+|001|1부터 N까지 M의 배수합| C++ | For Statsment |
+|002|자연수의 합| C++ | For Statsment |
+|003|진약수의 합| C++ | For & If Statement |
+|004|나이 차이| C++ | Min & Max |
+|005|나이계산| C++ | Char to int |
+|006|숫자만 추출| C++ | Char extract, isdigit |
+|007|영어단어 복구| C++ | String, strtok, tolower, putchar |
+|008|올바른 괄호| C++ | String, string::iterator, buf |
+|009|모두의 약수| C++ | For-For Statement |
+|010|자릿수의 합| C++ | Digit_sum |
+|011|숫자의 총 개수(small)| C++ | While |
+|012|숫자의 총 개수(large)| C++ | While |
+|013|가장 많이 사용된 자릿수| C++ | While |
 |014|뒤집은 소수| C++ |  |
 |015|소수의 개수| C++ |  |
 |016|Anagram(아나그램 : 구글 인터뷰 문제)| C++ |  |
