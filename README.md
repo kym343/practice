@@ -26,10 +26,10 @@ Algorithm Coding Practice
 <br>
 
 ## [Inflean ](https://www.inflearn.com/course/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/dashboard/)
-|  #  | Title | Solution | Basic idea (One line) |
-|-----| ----- | -------- | --------------------- |
-|1|1부터 N까지 M의 배수합| C++ |  |
-|2|자연수의 합| C++ |  |
+| # | Title | Solution | Basic idea (One line) |
+|---| ----- | -------- | --------------------- |
+| 1 |1부터 N까지 M의 배수합| C++ |  |
+| 2 |자연수의 합| C++ |  |
 |3|진약수의 합| C++ |  |
 |4|나이 차이| C++ |  |
 |5|나이계산| C++ |  |
