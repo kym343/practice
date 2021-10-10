@@ -90,20 +90,20 @@ Algorithm Coding Practice
 |060|합이 같은 부분집합(DFS : 아마존 인터뷰)| C++ | DFS |
 |061|특정 수 만들기(DFS : MS 인터뷰)| C++ | DFS |
 |062|병합정렬| C++ | Merge sort, lt-mid-rt, problem-039 |
-|063|인접행렬(가중치 방향그래프)| C++ |  |
-|064|경로 탐색(DFS)| C++ |  |
-|065|미로탐색(DFS)| C++ |  |
-|066|경로 탐색(DFS : 인접리스트 방법)| C++ |  |
-|067|최소비용(DFS : 인접행렬)| C++ |  |
-|068|최소비용(DFS : 가중치 방향그래프 인접리스트)| C++ |  |
-|069|이진트리 넓이우선탐색(BFS)| C++ |  |
-|070|그래프 최단거리(BFS)| C++ |  |
-|071|송아지 찾기(BFS : 상태트리탐색)| C++ |  |
-|072|공주 구하기(Queue : 큐)| C++ |  |
-|073|최대힙(priority_queue : 우선순위 큐)| C++ |  |
-|074|최소힙(priority_queue : 우선순위 큐)| C++ |  |
-|075|최대 수입 스케쥴(priority_queue 응용)| C++ |  |
-|076|이항계수(메모이제이션)| C++ |  |
+|063|인접행렬(가중치 방향그래프)| C++ | 2D araay |
+|064|경로 탐색(DFS)| C++ | DFS, ch[] |
+|065|미로탐색(DFS)| C++ | DFS, dx, dy, ch[] |
+|066|경로 탐색(DFS : 인접리스트 방법)| C++ | DFS, vector<int> map[]; |
+|067|최소비용(DFS : 인접행렬)| C++ | DFS, ch[], sum |
+|068|최소비용(DFS : 가중치 방향그래프 인접리스트)| C++ | DFS, vector<pair<int, int> > a[]; |
+|069|이진트리 넓이우선탐색(BFS)| C++ | BFS |
+|070|그래프 최단거리(BFS)| C++ | BFS, queue<int> Q, ch[], dis[] |
+|071|송아지 찾기(BFS : 상태트리탐색)| C++ | BFS, dx[], ch[] |
+|072|공주 구하기(Queue : 큐)| C++ | Queue, push, pop |
+|073|최대힙(priority_queue : 우선순위 큐)| C++ | Priority_queue |
+|074|최소힙(priority_queue : 우선순위 큐)| C++ | 'priority_queue<int> pQ & -' or 'priority_queue<int, vector<int>, greater<int> > pQ' |
+|075|최대 수입 스케쥴(priority_queue 응용)| C++ | Priority_queue, Struct, j=0; ... for ( ; j < N;j++) |
+|076|이항계수(메모이제이션)| C++ | DFS, return dy[n][r] = ..., nCr = ~(n-1)~C~(r-1)~ + ~(n-1)~C~(r)~ |
 |077|친구인가? (Union&Find 자료구조)| C++ |  |
 |078|원더랜드(Kruskal MST 알고리즘 : Union&Find 활용)| C++ |  |
 |079|원더랜드(Prim MST 알고리즘 : priority_queue 활용)| C++ |  |
