@@ -103,34 +103,34 @@ Algorithm Coding Practice
 |073|최대힙(priority_queue : 우선순위 큐)| C++ | Priority_queue |
 |074|최소힙(priority_queue : 우선순위 큐)| C++ | 'priority_queue<int> pQ & -' or 'priority_queue<int, vector<int>, greater<int> > pQ' |
 |075|최대 수입 스케쥴(priority_queue 응용)| C++ | Priority_queue, Struct, j=0; ... for ( ; j < N;j++) |
-|076|이항계수(메모이제이션)| C++ | DFS, return dy[n][r] = ..., nCr = <sub>n-1</sub>C<sub>r-1</sub> + <sub>n-1</sub>C<sub>r</sub> |
-|077|친구인가? (Union&Find 자료구조)| C++ |  |
-|078|원더랜드(Kruskal MST 알고리즘 : Union&Find 활용)| C++ |  |
-|079|원더랜드(Prim MST 알고리즘 : priority_queue 활용)| C++ |  |
-|080|다익스트라 알고리즘| C++ |  |
-|081|벨만-포드 알고리즘| C++ |  |
-|082|순열구하기(DFS : Depth First Search)| C++ |  |
-|083|복면산 SEND+MORE=MONEY (MS인터뷰)| C++ |  |
-|084|휴가(삼성 SW역량평가 기출문제 : DFS활용)| C++ |  |
-|085|수식만들기(삼성 SW역량평가 기출문제 : DFS활용)| C++ |  |
-|086|피자 배달 거리(삼성 SW역량평가 기출문제 : DFS활용)| C++ |  |
-|087|섬나라 아일랜드(BFS 활용)| C++ |  |
-|088|미로의 최단거리 통로(BFS 활용)| C++ |  |
-|089|토마토(BFS 활용)| C++ |  |
-|090|라이언 킹 심바(삼성 SW역량평가 기출 : BFS활용)| C++ |  |
-|091|[지식]조합구하기(ps.086)| C++ |  |
-|092|[지식]STL map 자료구조 활용| C++ |  |
-|101|네트워크 선 자르기(Bottom-Up)| C++ |  |
-|102|최대 부분 증가수열| C++ |  |
-|103|최대 선 연결하기| C++ |  |
-|104|가장 높은 탑 쌓기| C++ |  |
-|105|알리바바와 40인의 도둑(Bottom-Up & Top-Down)| C++ |  |
-|106|가방문제(냅색 알고리즘)| C++ |  |
-|107|동전교환| C++ |  |
-|108|최대점수 구하기(냅색 알고리즘)| C++ |  |
-|109|플로이드 워샬 알고리즘| C++ |  |
-|100|회장뽑기(플로이드-워샬 응용)| C++ |  |
-|101|위상정렬(그래프 정렬)| C++ |  |
+|076|이항계수(메모이제이션)| C++ | DFS, return dy[n][r] = ..., <sub>n</sub>C<sub>r</sub> = <sub>n-1</sub>C<sub>r-1</sub> + <sub>n-1</sub>C<sub>r</sub> |
+|077|친구인가? (Union&Find 자료구조)| C++ | Uinon & Find, return unf[v]=Find(unf[v]) |
+|078|원더랜드(Kruskal MST 알고리즘 : Union&Find 활용)| C++ | Uinon & Find, struct, sort |
+|079|원더랜드(Prim MST 알고리즘 : priority_queue 활용)| C++ | Priority_queue, struct, vector<pair<int, int> > map[] |
+|080|다익스트라 알고리즘| C++ | Priority_queue, struct, now, cost, next, next_cost |
+|081|벨만-포드 알고리즘| C++ | Bellman-Ford, struct |
+|082|순열구하기(DFS : Depth First Search)| C++ | DFS, ch[] |
+|083|복면산 SEND+MORE=MONEY (MS인터뷰)| C++ | DFS, ch[], for |
+|084|휴가(삼성 SW역량평가 기출문제 : DFS활용)| C++ | DFS, 2D array, sum |
+|085|수식만들기(삼성 SW역량평가 기출문제 : DFS활용)| C++ | DFS, for, sum |
+|086|피자 배달 거리(삼성 SW역량평가 기출문제 : DFS활용)| C++ | DFS, vector<pair<int, int> > house, pizza, <sub>n</sub>C<sub>r</sub> |
+|087|섬나라 아일랜드(BFS 활용)| C++ | BFS, struct, dx, dy |
+|088|미로의 최단거리 통로(BFS 활용)| C++ | BFS, struct, dx, dy |
+|089|토마토(BFS 활용)| C++ | BFS, struct, dx, dy |
+|090|라이언 킹 심바(삼성 SW역량평가 기출 : BFS활용)| C++ | BFS, struct State, struct Lion, dx, dy |
+|091|[지식]조합구하기086| C++ | <sub>n</sub>C<sub>r</sub>, problem-086 |
+|092|[지식]STL map 자료구조 활용| C++ | STL map |
+|101|네트워크 선 자르기(Bottom-Up & Top-Down)| C++ | DP, Bottom-Up: for, Top-Down: DFS |
+|102|최대 부분 증가수열| C++ | DP, dy[] |
+|103|최대 선 연결하기| C++ | DP, dy[], problem-102 |
+|104|가장 높은 탑 쌓기| C++ | DP, dy[], struct, sort |
+|105|알리바바와 40인의 도둑(Bottom-Up & Top-Down)| C++ | DP, Bottom-Up: for, Top-Down: DFS |
+|106|가방문제(냅색 알고리즘)| C++ | DP, dy[], dy[j] = max(dy[j], dy[j - w] + v) |
+|107|동전교환| C++ | DP, dy[], dy[j] = dy[j] = min(dy[j], dy[j - arr[i]] + 1) |
+|108|최대점수 구하기(냅색 알고리즘)| C++ | DP, dy[], for (j = T;j >= v;j--), dy[j] = max(dy[j], dy[j - v] + w) |
+|109|플로이드 워샬 알고리즘| C++ | DP, dy[][], dy[i][j] = min(dy[i][j], dy[i][k] + dy[k][j]) |
+|100|회장뽑기(플로이드-워샬 응용)| C++ | DP, dis[], dis[i][j] = min(dis[i][j], dis[i][k] + dis[k][j]), max, score |
+|101|위상정렬(그래프 정렬)| C++ | DP, dy[], queue<int> Q, vector<int> graph[] |
 
 <br>
 
