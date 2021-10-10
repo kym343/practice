@@ -28,8 +28,8 @@ Algorithm Coding Practice
 ## [Inflean ](https://www.inflearn.com/course/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/dashboard/)
 | # | Title | Solution | Basic idea (One line) |
 |---| ----- | -------- | --------------------- |
-|001|1부터 N까지 M의 배수합| C++ | For Statsment |
-|002|자연수의 합| C++ | For Statsment |
+|001|1부터 N까지 M의 배수합| C++ | For Statement |
+|002|자연수의 합| C++ | For Statement |
 |003|진약수의 합| C++ | For & If Statement |
 |004|나이 차이| C++ | Min & Max |
 |005|나이계산| C++ | Char to int |
@@ -42,32 +42,32 @@ Algorithm Coding Practice
 |012|숫자의 총 개수(large)| C++ | While |
 |013|가장 많이 사용된 자릿수| C++ | While |
 |014|뒤집은 소수| C++ | Revers, isPrime |
-|015|소수의 개수| C++ | j\*j<=i |
+|015|소수의 개수| C++ | j\*j<=i or Sieve of Eratosthenes |
 |016|Anagram(아나그램 : 구글 인터뷰 문제)| C++ | str[i] - 'A' |
 |017|선생님 퀴즈| C++ | N\*(N + 1)/2 |
 |018|층간소음| C++ | For Statsment |
-|019|분노 유발자| C++ |  |
-|020|가위 바위 보| C++ |  |
-|021|카드게임| C++ |  |
-|022|온도의 최대값| C++ |  |
-|023|연속 부분 증가수열| C++ |  |
-|024|Jolly Jumpers| C++ |  |
-|025|석차 구하기| C++ |  |
-|026|마라톤| C++ |  |
-|027|N!의 표현법| C++ |  |
-|028|N!에서 0의 개수| C++ |  |
-|029|3의 개수는?(small)| C++ |  |
-|030|3의 개수는?(large)| C++ |  |
-|031|탄화수소 질량| C++ |  |
-|032|선택정렬| C++ |  |
-|033|3등의 성적은?| C++ |  |
-|034|버블정렬| C++ |  |
-|035|Special Sort(구글 인터뷰)| C++ |  |
-|036|삽입정렬| C++ |  |
-|037|Least Recently Used(카카오 캐시 문제 변형)| C++ |  |
-|038|Inversion Sequence| C++ |  |
-|039|두 배열 합치기| C++ |  |
-|040|교집합(투포인트 알고리즘)| C++ |  |
+|019|분노 유발자| C++ | Max, j-- |
+|020|가위 바위 보| C++ | If Statement |
+|021|카드게임| C++ | Array, If Statement |
+|022|온도의 최대값| C++ | For-For Statement |
+|023|연속 부분 증가수열| C++ | For Statement |
+|024|Jolly Jumpers| C++ | Array, abs |
+|025|석차 구하기| C++ | Array |
+|026|마라톤| C++ | For-For Statement |
+|027|N!의 표현법| C++ | While or Sieve of Eratosthenes |
+|028|N!에서 0의 개수| C++ | Number of '5' |
+|029|3의 개수는?(small)| C++ | For-While Statement |
+|030|3의 개수는?(large)| C++ | left - currunt - right |
+|031|탄화수소 질량| C++ | Char to int, for (i = 1;a[i] != 'H';i++) |
+|032|선택정렬| C++ | Search & Swap |
+|033|3등의 성적은?| C++ | Sort |
+|034|버블정렬| C++ | Bubble sort |
+|035|Special Sort(구글 인터뷰)| C++ | Bubble sort |
+|036|삽입정렬| C++ | Search, Shift, Insert |
+|037|Least Recently Used(카카오 캐시 문제 변형)| C++ | Find & Move |
+|038|Inversion Sequence| C++ | Count or Shift |
+|039|두 배열 합치기| C++ | Two pointers, c/[idx_c++/] = a/[idx_a++/] |
+|040|교집합(투포인트 알고리즘)| C++ | Sort & Two pointers |
 |041|연속된 자연수의 합| C++ |  |
 |042|이분검색| C++ |  |
 |043|뮤직비디오(이분검색 응용)| C++ |  |
@@ -118,7 +118,7 @@ Algorithm Coding Practice
 |088|미로의 최단거리 통로(BFS 활용)| C++ |  |
 |089|토마토(BFS 활용)| C++ |  |
 |090|라이언 킹 심바(삼성 SW역량평가 기출 : BFS활용)| C++ |  |
-|091|[지식]조합구하기| C++ |  |
+|091|[지식]조합구하기(ps.086)| C++ |  |
 |092|[지식]STL map 자료구조 활용| C++ |  |
 |101|네트워크 선 자르기(Bottom-Up)| C++ |  |
 |102|최대 부분 증가수열| C++ |  |
