@@ -68,28 +68,28 @@ Algorithm Coding Practice
 |038|Inversion Sequence| C++ | Count or Shift |
 |039|두 배열 합치기| C++ | Two pointers, c[idx_c++] = a[idx_a++] |
 |040|교집합(투포인트 알고리즘)| C++ | Sort & Two pointers |
-|041|연속된 자연수의 합| C++ |  |
-|042|이분검색| C++ |  |
-|043|뮤직비디오(이분검색 응용)| C++ |  |
-|044|마구간 정하기(이분검색 응용)| C++ |  |
-|045|공주 구하기| C++ |  |
-|046|멀티태스킹(카카오 먹방 문제 변형)| C++ |  |
-|047|봉우리| C++ |  |
-|048|각 행의 평균과 가장 가까운 값| C++ |  |
-|049|블록의 최댓값| C++ |  |
-|050|영지(territory) 선택 : (small)| C++ |  |
-|051|영지(territory) 선택 : (large)| C++ |  |
-|052|Ugly Numbers| C++ |  |
-|053|K진수 출력| C++ |  |
-|054|올바른 괄호(stack)| C++ |  |
-|055|기차운행(stack 응용)| C++ |  |
-|056|재귀함수 분석| C++ |  |
-|057|재귀함수 이진수 출력| C++ |  |
-|058|이진트리 깊이우선탐색(DFS)| C++ |  |
-|059|부분집합(DFS)| C++ |  |
-|060|합이 같은 부분집합(DFS : 아마존 인터뷰)| C++ |  |
-|061|특정 수 만들기(DFS : MS 인터뷰)| C++ |  |
-|062|병합정렬| C++ |  |
+|041|연속된 자연수의 합| C++ | N = (a+1)+(a+2)+...+(a+n), (N-1-2-...-n)/n==0 |
+|042|이분검색| C++ | left - mid - right, mid = (left + right) / 2; |
+|043|뮤직비디오(이분검색 응용)| C++ | Binary Search |
+|044|마구간 정하기(이분검색 응용)| C++ | Binary Search |
+|045|공주 구하기| C++ | While Statement |
+|046|멀티태스킹(카카오 먹방 문제 변형)| C++ | Array |
+|047|봉우리| C++ | 2D-vector, dx, dy |
+|048|각 행의 평균과 가장 가까운 값| C++ | For Statement, round, abs |
+|049|블록의 최댓값| C++ | 2D-vector |
+|050|영지(territory) 선택 : (small)| C++ | For-For-For-For statement |
+|051|영지(territory) 선택 : (large)| C++ | DP, For-For statement |
+|052|Ugly Numbers| C++ | Three pointers |
+|053|K진수 출력| C++ | Stack, char str[20] = "0123456789ABCDEF" |
+|054|올바른 괄호(stack)| C++ | Stack |
+|055|기차운행(stack 응용)| C++ | Stack |
+|056|재귀함수 분석| C++ | Recursive |
+|057|재귀함수 이진수 출력| C++ | Recursive |
+|058|이진트리 깊이우선탐색(DFS)| C++ | DFS |
+|059|부분집합(DFS)| C++ | DFS, ch[] |
+|060|합이 같은 부분집합(DFS : 아마존 인터뷰)| C++ | DFS |
+|061|특정 수 만들기(DFS : MS 인터뷰)| C++ | DFS |
+|062|병합정렬| C++ | Merge sort, lt-mid-rt, problem-039 |
 |063|인접행렬(가중치 방향그래프)| C++ |  |
 |064|경로 탐색(DFS)| C++ |  |
 |065|미로탐색(DFS)| C++ |  |
