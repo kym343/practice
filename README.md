@@ -103,7 +103,7 @@ Algorithm Coding Practice
 |073|최대힙(priority_queue : 우선순위 큐)| C++ | Priority_queue |
 |074|최소힙(priority_queue : 우선순위 큐)| C++ | 'priority_queue<int> pQ & -' or 'priority_queue<int, vector<int>, greater<int> > pQ' |
 |075|최대 수입 스케쥴(priority_queue 응용)| C++ | Priority_queue, Struct, j=0; ... for ( ; j < N;j++) |
-|076|이항계수(메모이제이션)| C++ | DFS, return dy[n][r] = ..., nCr = <sub>n-1<sub>C~(r-1)~ + ~(n-1)~C~(r)~ |
+|076|이항계수(메모이제이션)| C++ | DFS, return dy[n][r] = ..., nCr = <sub>n-1</sub>C<sub>r-1</sub> + <sub>n-1</sub>C<sub>r</sub> |
 |077|친구인가? (Union&Find 자료구조)| C++ |  |
 |078|원더랜드(Kruskal MST 알고리즘 : Union&Find 활용)| C++ |  |
 |079|원더랜드(Prim MST 알고리즘 : priority_queue 활용)| C++ |  |
