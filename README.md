@@ -66,7 +66,7 @@ Algorithm Coding Practice
 |036|삽입정렬| C++ | Search, Shift, Insert |
 |037|Least Recently Used(카카오 캐시 문제 변형)| C++ | Find & Move |
 |038|Inversion Sequence| C++ | Count or Shift |
-|039|두 배열 합치기| C++ | Two pointers, c/[idx_c++/] = a/[idx_a++/] |
+|039|두 배열 합치기| C++ | Two pointers, c[idx_c++] = a[idx_a++] |
 |040|교집합(투포인트 알고리즘)| C++ | Sort & Two pointers |
 |041|연속된 자연수의 합| C++ |  |
 |042|이분검색| C++ |  |
