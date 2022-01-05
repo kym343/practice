@@ -6,13 +6,13 @@ Algorithm Coding Practice
 
 ## [SW Expert Academy](https://swexpertacademy.com/main/main.do)
 
-| # | Title | Solution | Basic idea (One line) |
+| # | Title | Language | Solution |
 |---| ----- | :--------: | --------------------- |
 | 1 | [D4_7829](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWtInr3auH0DFASy&categoryId=AWtInr3auH0DFASy&categoryType=CODE) | C++ |1. Quick sort<br>2. Judgement by Case
 <br>
 
 ## [Beakjoon Algorithm](https://www.acmicpc.net/)
-| # | Title | Solution | Basic idea (One line) |
+| # | Title | Language | Solution |
 |:---:| ----- | :--------: | --------------------- |
 |[1476](https://www.acmicpc.net/problem/1476)|날짜 계산(S5)| C++ | If Statsment |
 |[1929](https://www.acmicpc.net/problem/1929)|소수 구하기(S2)| C++ | Sieve of Eratosthenes |
@@ -26,7 +26,7 @@ Algorithm Coding Practice
 <br>
 
 ## [Inflean ](https://www.inflearn.com/course/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/dashboard/)
-| # | Title | Solution | Basic idea (One line) |
+| # | Title | Language | Solution |
 |---| ----- | :--------: | --------------------- |
 |001|1부터 N까지 M의 배수합| C++ | For Statement |
 |002|자연수의 합| C++ | For Statement |
@@ -135,6 +135,6 @@ Algorithm Coding Practice
 <br>
 
 ## Others
-| # | Title | Solution | Basic idea (One line) |
+| # | Title | Language | Solution |
 |---| ----- | :--------: | --------------------- |
 | 1 | Color Paper | C++ | - |
