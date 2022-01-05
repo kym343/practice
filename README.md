@@ -13,7 +13,7 @@ Algorithm Coding Practice
 
 ## [Beakjoon Algorithm](https://www.acmicpc.net/)
 | # | Title | Solution | Basic idea (One line) |
-|---| ----- | -------- | --------------------- |
+|-----| ----- | -------- | --------------------- |
 |[1476](https://www.acmicpc.net/problem/1476)|날짜 계산(S5)| C++ | If Statsment |
 |[1929](https://www.acmicpc.net/problem/1929)|소수 구하기(S2)| C++ | Sieve of Eratosthenes |
 |[1934](https://www.acmicpc.net/problem/1934)|최소공배수(S5)| C++ | Repeat dividing two numbers |
