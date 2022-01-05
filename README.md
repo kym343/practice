@@ -14,15 +14,15 @@ Algorithm Coding Practice
 ## [Beakjoon Algorithm](https://www.acmicpc.net/)
 | # | Title | Solution | Basic idea (One line) |
 |---| ----- | -------- | --------------------- |
-|1|[1476](https://www.acmicpc.net/problem/1476)| C++ | If Statsment |
-|2|[1929](https://www.acmicpc.net/problem/1929)| C++ | Sieve of Eratosthenes |
-|3|[1934](https://www.acmicpc.net/problem/1934)| C++ | Repeat dividing two numbers |
-|4|[1978](https://www.acmicpc.net/problem/1978)| C++ |1. Divide case 1, 2 or 3, more<br>2. Find the remainder from 3 to n-1 for n |
-|5|[2309](https://www.acmicpc.net/problem/2309)| C++ |1. Subtract 100 from total sum<br>2. Find the case with the subtracted value |
-|6|[2609](https://www.acmicpc.net/problem/2609)| C++ | Find the remainder from 2 to two nums min -1 |
-|7|[6588](https://www.acmicpc.net/problem/6588)| C++ | Sieve of Eratosthenes |
-|8|[9613](https://www.acmicpc.net/problem/9613)| C++ |1. Find the remainder from 2 to two nums min -1<br>2. Total sum |
-|9|[10430](https://www.acmicpc.net/problem/10430)| C++ | Caculation of modulo |
+|[1476](https://www.acmicpc.net/problem/1476)|날짜 계산(S5)| C++ | If Statsment |
+|[1929](https://www.acmicpc.net/problem/1929)|소수 구하기(S2)| C++ | Sieve of Eratosthenes |
+|[1934](https://www.acmicpc.net/problem/1934)|최소공배수(S5)| C++ | Repeat dividing two numbers |
+|[1978](https://www.acmicpc.net/problem/1978)|소수 찾기(S4)| C++ |1. Divide case 1, 2 or 3, more<br>2. Find the remainder from 3 to n-1 for n |
+|[2309](https://www.acmicpc.net/problem/2309)|일곱 난쟁이(B2)| C++ |1. Subtract 100 from total sum<br>2. Find the case with the subtracted value |
+|[2609](https://www.acmicpc.net/problem/2609)|최대공약수와 최소공배수(S5)| C++ | Find the remainder from 2 to two nums min -1 |
+|[6588](https://www.acmicpc.net/problem/6588)|골드바흐의 추측(S1)| C++ | Sieve of Eratosthenes |
+|[9613](https://www.acmicpc.net/problem/9613)|GCD 합(S3)| C++ |1. Find the remainder from 2 to two nums min -1<br>2. Total sum |
+|[10430](https://www.acmicpc.net/problem/10430)|나머지(B5)| C++ | Caculation of modulo |
 <br>
 
 ## [Inflean ](https://www.inflearn.com/course/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/dashboard/)
